@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55f7ea6c-7296-4e7d-8a50-29316985ef99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Array/Add_two_Matrix2x3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Array/Add_two_Matrix2x3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Array/Max_Min.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Array/Max_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Array/Maximum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Array/average_foreach_loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Array/average_foreach_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/Cyclinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/ImplementShape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/ImplementShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/ShapePackage/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/ShapePackage/Cyclinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/ShapePackage/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/ShapePackage/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/ShapePackage/Sphere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/ShapePackage/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/CustomPackage/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Check_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Custom_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Custom_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Nested_Try_Catch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Nested_Try_Catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Throw_Keyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Throw_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Throws_Keyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Throws_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Try_catch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Exception Handling/Try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Frame_Layout/Frame_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Frame_Layout/Frame_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/ArrayIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/ArrayIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Array_$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Array_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/CARDLAYOUT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/CARDLAYOUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Cal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Cal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Calculator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/GRIDBAGLAYOUT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/GRIDBAGLAYOUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/GUICalculator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/GUICalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Menu_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Menu_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/MouseColorChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/MouseColorChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Random_Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Random_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Registation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Registation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Traffic_Light$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Traffic_Light.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/Traffic_Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/action.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/canvas_figure$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/canvas_figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/canvas_figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/choice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/clicked$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/clicked$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/clicked.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/color_canvas$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/color_canvas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/color_canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/diagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/diagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/figure$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/form$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/form.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/key_Listener$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/key_Listener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/key_Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/list.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/loginform.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/loginform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/multi$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/multi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/multiplication_table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/multiplication_table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/myCanvas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/panel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/panel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/perform$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/perform.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/print.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/setBound_method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/setBound_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/windowframe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/GUI/windowframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Bluetooth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/CellPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Circle_Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Circle_Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Cuboid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/DaemonThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Exceptional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Exceptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/For_each_loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/For_each_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Internet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/OnlineLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/OnlineLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Package_implementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Rectangle_Cuboid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Rectangle_Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/SmartPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Sphere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/check_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/format.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/format.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/override.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/per.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/per.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/string_method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/string_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/General Program/sum_of_n_even_number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/ArrayStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/ArrayStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/Create_new_file.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/Create_new_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/DataStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/DataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/DataStream_input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/DataStream_input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/FileOutputStream_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/FileWriter_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/FileWriter_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/Formatted_Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/Formatted_Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/Inet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/Inet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/MyFileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/MyFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/PW_ascii.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/PW_ascii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/RAF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/RAF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/ReadConsole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/ReadConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/ReadFirst10_Last10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/ReadFirst10_Last10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/UsingScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/UsingScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/buffered_reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/buffered_reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/char_by_char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/char_by_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/copy_File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/copy_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/f1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/f2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/f3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/print_writer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/print_writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/three_file.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/three_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/url_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Input &amp; Output/url_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Java_Interface_abstract.java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Java_Interface_abstract.java/src/main/java/com/mycompany/java_interface_abstract/java/Java_Interface_abstractJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Java_Interface_abstract.java/target/classes/com/mycompany/java_interface_abstract/java/Java_Interface_abstractJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Java_Interface_abstract.java/target/classes/com/mycompany/java_interface_abstract/java/phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Java_Interface_abstract.java/target/classes/com/mycompany/java_interface_abstract/java/smartphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Junit/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Junit/CubeRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Junit/Highest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Junit/TestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Junit/TestLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Junit/Test_Highest_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Junit/calculation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Junit/calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Methods/Sum_of_n_number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Methods/Sum_of_n_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Methods/fibo_recussion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Methods/fibo_recussion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/Area_Circle_Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/Area_Circle_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/Area_Circle_Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/Area_Circle_Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/Printing_Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/Printing_Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/SocClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/SocClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/SocServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/SocServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/SocketClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/SocketServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/SocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Socket Programming/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Balance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Constructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Elements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Extends_Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Extends_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/FIFO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/FIFO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/FILO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/FILO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Implements_Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Implements_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Inter_Thread_Communication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Inter_Thread_Communication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/MyThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/My_Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Priority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Sleep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Sleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Synchronized_Block.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Synchronized_Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Synchronized_Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Synchronized_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Synchronized_Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Thread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Thread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Thread_Group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Thread_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Thread_isAlive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/Thread_isAlive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/odd_even.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/odd_even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CORE JAVA/Threads/print.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Ul7hWD4RWIZ5zGFjTAO0dw1qBb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.12" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.12" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="80883660-6e47-4d58-b43b-21e5211a5bf1" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51191" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55f7ea6c-7296-4e7d-8a50-29316985ef99" name="Changes" comment="" />
+      <created>1693502433496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693502433496</updated>
+      <workItem from="1693502434514" duration="7000" />
+      <workItem from="1693502474084" duration="549000" />
+      <workItem from="1693503039781" duration="158000" />
+      <workItem from="1693503222922" duration="53000" />
+      <workItem from="1693589068568" duration="313000" />
+      <workItem from="1693589392488" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
